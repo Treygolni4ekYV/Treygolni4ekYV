@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Treygolni4ekYV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+эщкере
 
+https://github.com/user-attachments/assets/a3311520-2464-45c9-8df1-42978cd4320e
 
 ![](https://komarev.com/ghpvc/?username=Treygolni4ekYV)
 
