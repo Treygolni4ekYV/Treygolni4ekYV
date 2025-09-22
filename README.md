@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 эщкере
+![animation gif](https://github.com/user-attachments/assets/17f1e83a-8ffd-47b4-9dc6-10371756e823)
 
-https://github.com/user-attachments/assets/a3311520-2464-45c9-8df1-42978cd4320e
 
 ![](https://komarev.com/ghpvc/?username=Treygolni4ekYV)
 
